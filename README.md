@@ -1,2 +1,2 @@
-# Curso de _Git_&_GitHub
+# Curso de_Git_&_GitHub
 Hola perros
