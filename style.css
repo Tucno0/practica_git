@@ -1,7 +1,21 @@
 html {
     background-color: black;
-    background-image: url("http://i.imgur.com/2M7gQ.jpg");
     background-repeat: repeat-x;
     background-size: 100% 100%;
     background-attachment: fixed;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+a {
+    color: orange;
+}
+
+a:hover {
+    color: orangered;
+}
+
+img {
+    max-width: 100%;
 }
