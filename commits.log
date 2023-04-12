@@ -1,0 +1,98 @@
+commit 452aea962ce773bf4bf1f51dd75de23958c2ad1f
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Wed Apr 12 10:47:30 2023 -0500
+
+    Agregando 2 parrafos
+
+commit 8c7812394da3f3107fc8aaa27ddff77cc7f72d24
+Merge: 7fac078 cee111c
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Wed Apr 12 10:45:16 2023 -0500
+
+    Conflicto resuelto
+
+commit 7fac0788e814b1c5a78c4596758640287878e704
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Wed Apr 12 10:30:58 2023 -0500
+
+    Agregando las estaciones del año con fecha de inicio
+
+commit cee111ce09185d3941a6e20fa0a609e2ff9f5940
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Wed Apr 12 10:30:58 2023 -0500
+
+    Agregando las estacionnes del año
+
+commit 15498eb2ca5e1c6392236dbbb4d58259b2f14dfe
+Merge: 7e721a3 7d09263
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 18:45:56 2023 -0500
+
+    resolviendo conflicto merge main/html en el documentoo index html
+
+commit 7d092631190f384d283eae647ba0fdf34f4241be
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 18:40:40 2023 -0500
+
+    agregando index.js al index.html
+
+commit 7e721a38f9b4a5b11d7ba6e132f3abfae29c2e4b
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 18:37:48 2023 -0500
+
+    agregando style.css a html
+
+commit cfdfa96fc85f5f37ff637d7fbcbb670bb793f8f9
+Merge: 28c495d 5b14110
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 18:29:06 2023 -0500
+
+    Merge branch 'js'
+
+commit 5b141102aa54dd2d5a9615fde25af14132bdd72a
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 18:25:57 2023 -0500
+
+    Creandi index.js
+
+commit 28c495d46d538587e09f09f65017bcd40e558ee3
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 18:22:07 2023 -0500
+
+    Creando style.css
+
+commit 5766d163eab0859d576eeb275cb6f90825578579
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 18:17:52 2023 -0500
+
+    mensaje del commit
+
+commit c727b6459761fc4a20d20f10e3aa421a19adb736
+Author: Jhampier <73794351+Tucno0@users.noreply.github.com>
+Date:   Tue Apr 11 17:21:27 2023 -0500
+
+    Creando licencia del repositorio
+
+commit cadd002ceea389ebef09eeea7c4982145510ba53
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 17:17:49 2023 -0500
+
+    agragando mas contenido al readme
+
+commit f02283a3302dc05ff680e39eb0bc4805988850b5
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 17:15:32 2023 -0500
+
+    nuevo
+
+commit 825590c726f11301e9b4c261dfab7e5f71f5ed10
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 17:06:07 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit db7857c4aa17f006509bcbccdacb8a02744386ae
+Author: Jhampier Tucno <yantucnoperez@gmail.com>
+Date:   Tue Apr 11 16:55:54 2023 -0500
+
+    Primer commit 👌
